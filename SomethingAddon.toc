@@ -1,0 +1,10 @@
+## Interface: 30300
+## Title: SomethingAddon
+## Notes: This is SomethingAddon. It provides SA emotes in WoW.
+## Author: The Indomitable Joe Dredd of Freelance Police.
+## URL: http://www.freelancepolice.org/
+## Version: 0.90
+## DefaultState: Enabled
+## LoadOnDemand: 0
+SomethingAddon.xml
+Metadata.lua
